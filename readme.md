@@ -6,5 +6,5 @@
 - disable secureboot, and enable AHCI mode in BIOS settings.
 
 ## About
-- opencore v0.6.2
-- macos supported 10.15.6 or earlier
+- opencore v0.6.3
+- macos supported 10.15.7 or earlier
